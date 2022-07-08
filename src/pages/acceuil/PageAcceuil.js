@@ -4,8 +4,6 @@ import { Text, View, Button } from 'react-native';
 const Acceuil = ({navigation}) => {
   return (
     <View>
-      <Text>Bonjour je suis l'acceuil</Text>
-
       <View>
         <Button
           title = "Nouvelle Transaction"

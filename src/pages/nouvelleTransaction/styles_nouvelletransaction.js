@@ -1,10 +1,12 @@
 import { StyleSheet} from 'react-native';
 
 const styles = StyleSheet.create({
-    Text:{
-        borderColor: '#000000',
-        color: '#d35400',
-    }
+
+    Vue_Transaction_1:{
+        flex: 1,
+        height: '100%',
+        backgroundColor: '#ECEFFF',
+    },
 })
 
 export default styles;

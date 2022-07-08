@@ -1,0 +1,589 @@
+Transactions  JEU DE DONNEES 
+
+{
+    "state": true,
+    "message": "follow the lead",
+    "available": true,
+    "transactNumber": 60,
+    "transactList": [
+        {
+            "name": "AFATOLO",
+            "firstname": "Karl2 Steeve",
+            "number": "0606895478",
+            "date": "2022-02-25T16:10:14.000Z",
+            "amount": 2555.5,
+            "state": "En cours/ Pending",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "T-Money"
+        },
+        {
+            "name": "AFIVI",
+            "firstname": "Daniel",
+            "number": "060606060+",
+            "date": "2022-02-25T16:08:50.000Z",
+            "amount": 2555,
+            "state": "En cours/ Pending",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "T-Money"
+        },
+        {
+            "name": "FOFANA"
+            "firstname": "Karim",
+            "number": "060606060+",
+            "date": "2022-02-25T16:08:05.000Z",
+            "amount": 2555,
+            "state": "En cours/ Pending",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "T-Money"
+        },
+        {
+            "name": "LAWSON",
+            "firstname": "Manolo Joshua",
+            "number": "060606060+",
+            "date": "2022-02-25T16:06:26.000Z",
+            "amount": 2555,
+            "state": "En cours/ Pending",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "T-Money"
+        },
+        {
+            "name": "KAFKA",
+            "firstname": "Georgy",
+            "number": "060606060+",
+            "date": "2022-02-25T16:05:36.000Z",
+            "amount": 255,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "T-Money"
+        },
+        {
+            "name": "A*F",
+            "firstname": "DAnl",
+            "number": "560606060+",
+            "date": "2022-02-25T15:32:19.000Z",
+            "amount": 999,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "A*F",
+            "firstname": "DAnl",
+            "number": "560606060+",
+            "date": "2022-02-25T15:30:37.000Z",
+            "amount": 1000,
+            "state": "En cours/ Pending",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "SAKATO",
+            "firstname": "Souke",
+            "number": "560606060+",
+            "date": "2022-02-24T10:17:27.992Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "A*F",
+            "firstname": "DAnl",
+            "number": "560606060+",
+            "date": "2022-02-18T10:11:45.065Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "BOBODIOUF",
+            "firstname": "Maï",
+            "number": "560606060+",
+            "date": "2022-02-18T05:09:17.390Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "BOBODIOUF",
+            "firstname": "Awa",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:35.649Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "BOBODIOUF",
+            "firstname": "Brama l'unique",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:35.000Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "SOUKE",
+            "firstname": "Siriki",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:34.711Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "AFIVI",
+            "firstname": "DAniel",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:34.409Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "L'HOMME",
+            "firstname": "Doumouni",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:34.103Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "Tantie",
+            "firstname": "Aby",
+            "number": "0654781299",
+            "date": "2022-02-15T03:44:33.812Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "SOULEYMANE",
+            "firstname": "Point BF",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:33.517Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "TONTON",
+            "firstname": "Damité",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:33.209Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "SAKATO",
+            "firstname": "Soumbala",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:32.897Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "Tonton",
+            "firstname": "Drissa",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:32.531Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "MON",
+            "firstname": "Bala",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:32.184Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "Fati",
+            "firstname": "Trop bête",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:31.801Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "SECRETAIRE",
+            "firstname": "De direction",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:31.344Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "SALIF",
+            "firstname": "Le dragueur",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:30.886Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "La go",
+            "firstname": "choc",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:30.329Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "M'A",
+            "firstname": "Dalton",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:29.696Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "Ma",
+            "firstname": "COpine du Village☻",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:28.976Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "LE",
+            "firstname": "PILON",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:27.780Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "NOM",
+            "firstname": "dedieu",
+            "number": "060606060+",
+            "date": "2022-02-15T03:44:24.400Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "La",
+            "firstname": "Dolotière",
+            "number": "060606060+",
+            "date": "2022-01-13T05:02:01.000Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "DUBON",
+            "firstname": "Dolo",
+            "number": "060606060+",
+            "date": "2022-01-13T05:02:01.000Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "Tchapalo",
+            "firstname": "Drome",
+            "number": "060606060+",
+            "date": "2022-01-13T05:02:01.000Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "Goou",
+            "firstname": "Michel",
+            "number": "060606060+",
+            "date": "2022-01-13T05:02:01.000Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "La Go",
+            "firstname": "Nastou",
+            "number": "060606060+",
+            "date": "2022-01-13T05:02:01.000Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        },
+        {
+            "name": "LaFemme",
+            "firstname": "Delta",
+            "number": "060606060+",
+            "date": "2022-01-13T05:02:01.000Z",
+            "amount": 155.5,
+            "state": "Effectué/ Done",
+            "motivation": "Assistance familliale",
+            "moneyorigin": "Salaire/Income",
+            "payement": "VISA",
+            "delivery": "FLOOZ"
+        }
+    ]
+}
+
+Si la clé "state" vaut false, un message d'erreur doit être affiché sur l'interface
+Si la clé "state" vaut true et que la clé "available" vaut false, un message doit indiquer 
+à l'utilisateur qu'il n'a aucune transaction pour le moment
+
+Beneficiaires 
+
+{
+    "state": true,
+    "message": "Go ahead",
+    "receivers": [
+        {
+            "Name": "EKOUE",
+            "Firstname": "Manolo",
+            "Email": null,
+            "Phone": "060606060+",
+            "Country": 1
+        },
+        {
+            "Name": "SAKATO",
+            "Firstname": "Damité",
+            "Email": null,
+            "Phone": "560606060+",
+            "Country": 3
+        },
+        {
+            "Name": "FATI",
+            "Firstname": "La bête",
+            "Email": null,
+            "Phone": "560606060+",
+            "Country": 1
+        },
+        {
+            "Name": "AGORA",
+            "Firstname": "Senghor",
+            "Email": null,
+            "Phone": "560606060+",
+            "Country": 1
+        },
+        {
+            "Name": "AFATOLO",
+            "Firstname": "Karl",
+            "Email": "",
+            "Phone": "0606895478",
+            "Country": 3
+        }
+    ]
+}
+
+Si la clé "state" vaut false, un message d'erreur doit être affiché sur l'interface
+
+Users (Pour l'authentification)
+
+[
+    {
+        "name": "Goeffroy",
+        "firstname": "Goffrey",
+        "email": "goffet.geofroy@pm.me",
+        "number": "6655228863",
+        "country": "FRANCE",
+        "countrycode": "0033"
+    },
+    {
+        "name": "Folklore",
+        "firstname": "Koffi",
+        "email": "flkkff@pm.me",
+        "number": "0033665556416",
+        "country": "FRANCE",
+        "countrycode": "0033"
+    },
+    {
+        "name": "Nouvel",
+        "firstname": "Utilisateur",
+        "email": "nouvel.utilisateur@pm.me",
+        "number": "0625361489",
+        "country": "FRANCE",
+        "countrycode": "0033"
+    },
+    {
+        "name": "A",
+        "firstname": "B",
+        "email": "hash",
+        "number": "0606060606",
+        "country": "TOGO",
+        "countrycode": "00228"
+    },
+    {
+        "name": "D@niel",
+        "firstname": "DAniel",
+        "email": "D@niel",
+        "number": "0695888975",
+        "country": "TOGO",
+        "countrycode": "00228"
+    },
+    {
+        "name": "Abi",
+        "firstname": "B",
+        "email": "hash",
+        "number": "06060601606",
+        "country": "TOGO",
+        "countrycode": "00228"
+    },
+    {
+        "name": "test",
+        "firstname": "Test",
+        "email": "test.test@pm.me",
+        "number": "9632541122",
+        "country": "TOGO",
+        "countrycode": "00228"
+    },
+    {
+        "name": "G",
+        "firstname": "T",
+        "email": "test.trest@pm.me",
+        "number": "565825282858",
+        "country": "TOGO",
+        "countrycode": "00228"
+    },
+    {
+        "name": "New",
+        "firstname": "User",
+        "email": "new.user@pm.me",
+        "number": "0652354178",
+        "country": "FRANCE",
+        "countrycode": "0033"
+    },
+    {
+        "name": "AFIVI",
+        "firstname": "daniel",
+        "email": "daniel.afivi@pm.me",
+        "number": "010101010101",
+        "country": "TOGO",
+        "countrycode": "00228"
+    }
+]
+
+
+UserInfo (Pour les informations dans le menu drawer)
+
+{
+    "state": true,
+    "message": "ACCOUNT FOUND",
+    "name": "AFIVI",
+    "firstname": "daniel",
+    "number": "010101010101",
+    "email": "daniel.afivi@pm.me"
+}
+
+Statistiques (Pour les statistiques dans le menu drawer)
+
+{
+    "state": true,
+    "available": true,
+    "total_transactions": 60,
+    "succesfull": 52,
+    "pending": 5,
+    "cancelled": 3
+}
+
