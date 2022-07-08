@@ -5,6 +5,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import PageAcceuil from './src/pages/acceuil/PageAcceuil';
 import NouvelleTransaction from './src/pages/nouvelleTransaction/NouvelleTransaction';
+import InfoPerso from './src/pages/informationperso/InfoPerso';
 
 const Stack = createNativeStackNavigator();
 
@@ -25,6 +26,13 @@ export default function App() {
           name="nouvelle_transaction" 
           component={NouvelleTransaction}
           options={{ title: 'Nouvelle Transaction' }}
+        />
+
+        {/* Route information personelle */}
+        <Stack.Screen 
+          name="info_perso" 
+          component={InfoPerso}
+          options={{ title: 'Informations Personnelles' }}
         />
 
       </Stack.Navigator>
